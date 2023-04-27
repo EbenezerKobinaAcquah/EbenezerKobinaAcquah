@@ -1,14 +1,11 @@
-# Hi there 👋 I'm Ebenezer 
-
+# Hi 👋 I'm Ebenezer Acquah
+## An Aspiring Software Engineer
 
 
 - 🔭 I’m currently working on a web app for donations
-- 🌱 I’m currently learning react.js and python
-- 👯 I’m looking to collaborate on any interesting project
-
-- 🤔 I’m looking for help with a mentor to guide me in the journey of becoming a SWE
-- 💬 Ask me about anything web 
-- 📫 How to reach me: 
+- 🌱 I’m currently learning node.js, react.js, and python
+- 💬 Ask me about anything soccer, fifa and web 
+- 📫 How to reach me: ebenezeracquah501@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Facebook was originally a directory of freshmen with their names and pictures
+- ⚡ Fun fact: Facebook was originally a directory of freshmen with their names and pictures. I can become my deeam. 
 
